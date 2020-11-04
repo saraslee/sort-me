@@ -1,8 +1,11 @@
 # Sort Me
 
+
+## About: 
 Web app that allows a user to visualize various sorting algorithms.  Sorting algorithms were coded using javascript and the interface was programmed using HTML and CSS.  I completed this project to solidify my understanding of bubble sort and merge sort while practicing front end development.  I plan on adding a timer and more sorting algorithms to my web app.  
 
 
+## Bubble Sort 
 Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order. Bubble sort has a worst-case and average complexity of О(n2), where n is the number of items being sorted. 
 
 First Pass:
@@ -20,7 +23,7 @@ Second Pass:
 And so forth.  
 
 
-
+## Merge Sort 
 Merge Sort is a divide and conquer algorithm. It divides the input array into two halves, calls itself for the two halves, and then merges the two sorted halves.  Merge sort has a worst case time complexity of O(n log n).  
 
 
