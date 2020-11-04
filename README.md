@@ -26,6 +26,10 @@ And so forth.   <br />
 ## Merge Sort 
 Merge Sort is a divide and conquer algorithm. It divides the input array into two halves, calls itself for the two halves, and then merges the two sorted halves.  Merge sort has a worst case time complexity of O(n log n).  
 
+## To run the app:
+Go to 
+Choose sorting algorithm you want to visualize and click start.  
+Generate random array and click start to run the sort again.  
 
 
 
