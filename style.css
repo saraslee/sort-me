@@ -34,7 +34,7 @@ button:hover {
 }
 
 .moveUp {
-  background: #c5b097;
+  background: #6dacea;
   width: 100%;
   color: white;
   font-size: 10px;
@@ -67,7 +67,7 @@ select {
 .moveUp a {
   display: block;
   height: 25px;
-  background: #c5b097;
+  background: #6dacea;
   border: 1px white;
   border-radius: 5px;
   position: relative;
