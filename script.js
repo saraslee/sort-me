@@ -127,9 +127,7 @@ class Sorting {
     }, 300);
   }
 }
-//TODO:
-//padaryt, kad reversint butu galima
-//matuot laika
+
 const sorting = new Sorting();
 sorting.setWidthByValue();
 
