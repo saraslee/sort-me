@@ -1,0 +1,85 @@
+.bg-dark {
+  background: burlywood;
+}
+html,
+body {
+  background: white;
+  color: rgb(109, 105, 105);
+  font-family: "Montserrat", serif;
+}
+h1 {
+  margin: auto;
+  margin-left: 15%;
+}
+
+button {
+  height: 100%;
+  background: white;
+  border: none;
+  border-radius: 12px;
+  font-size: 15px;
+  padding: 10px;
+  margin-right: 1%;
+  color: grey;
+  cursor: pointer;
+  font-family: "Montserrat", serif;
+}
+button:hover {
+  background: #f4efea;
+  color: black;
+  transition: 0.4s;
+}
+#gen-new {
+  margin-right: 3%;
+}
+
+.moveUp {
+  background: #c5b097;
+  width: 100%;
+  color: white;
+  font-size: 10px;
+  border: 1px white;
+  border-radius: 5px;
+  position: relative;
+  margin: auto;
+  margin: 10px;
+  padding: 3px;
+  text-align: center;
+  font-family: "Barlow";
+}
+select {
+  font-family: "Barlow";
+  padding: 10px;
+  margin: 10px;
+  background: pink;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 1px solid;
+  border-radius: 20px;
+  width: 50%;
+}
+
+.moveUp div {
+  border: white;
+  position: relative;
+}
+.moveUp a {
+  display: block;
+  height: 25px;
+  background: #c5b097;
+  border: 1px white;
+  border-radius: 5px;
+  position: relative;
+  font-size: 17px;
+}
+#element {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 5%;
+}
+.buttons {
+  margin: auto;
+}
