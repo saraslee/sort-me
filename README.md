@@ -2,7 +2,7 @@
 
 
 ## About: 
-I created a web app that allows a user to visualize different sorting algorithms.  The sorting algorithms were coded using JS and the user interface was programmed using HTML and CSS.  I completed this project to solidify my understanding of bubble sort and merge sort while also practicing front end development and efficient designs.  I plan on adding a timer and more sorting algorithms to my web app.  
+I created a web app that allows a user to visualize different sorting algorithms.  The sorting algorithms were coded using JS and the user interface was programmed using HTML and CSS.  I completed this project to solidify my understanding of sorting algorithms while also practicing front end development and efficient designs.  I plan on adding a timer and more sorting algorithms to my web app.  
 
 
 ## Bubble Sort 
@@ -22,6 +22,9 @@ Second Pass:
 
 And so forth.   <br />
 
+
+## Selection Sort
+Selection sort selects the smallest element from an unsorted list in each iteration and places that element at the beginning of the unsorted list.  Selection sort has a time complexity of O(n2).
 
 ## Merge Sort 
 Merge Sort is a divide and conquer algorithm. It divides the input array into two halves, calls itself for the two halves, and then merges the two sorted halves.  Merge sort has a worst case time complexity of O(n log n).  
