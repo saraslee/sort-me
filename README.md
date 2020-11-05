@@ -2,7 +2,7 @@
 
 
 ## About: 
-I created a web app that allows a user to visualize different sorting algorithms.  The sorting algorithms were coded using JS and the user interface was programmed using HTML and CSS.  I completed this project to solidify my understanding of sorting algorithms while also practicing front end development and efficient designs.  I plan on adding a timer and more sorting algorithms to my web app.  
+I created a web app that allows a user to visualize different sorting algorithms.  The sorting algorithms were coded using JS and the user interface was programmed using HTML and CSS.  I completed this project to solidify my understanding of sorting algorithms while also practicing front end development and efficient designs.  I plan on adding more sorting algorithms to my web app.  
 
 
 ## Bubble Sort 
